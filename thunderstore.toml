@@ -7,7 +7,7 @@ namespace = "purpIe"
 name = "Ban_Manager"
 versionNumber = "1.0.3"
 description = "Manage which boons are banned from appearing in runs."
-websiteUrl = "https://github.com/ayyatma/purpIe-Ban_Manger"
+websiteUrl = "https://github.com/ayyatma/purpIe-Ban_Manager"
 containsNsfwContent = false
 
 [package.dependencies]

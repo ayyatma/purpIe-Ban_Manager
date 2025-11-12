@@ -12,7 +12,7 @@
 
 
 <!-- Versions -->
-[Unreleased]: https://github.com/ayyatma/purpIe-Ban_Manger/compare/v1.0.3...HEAD
-[1.0.3]: https://github.com/ayyatma/purpIe-Ban_Manger/compare/v1.0.1...v1.0.3
-[1.0.1]: https://github.com/ayyatma/purpIe-Ban_Manger/compare/v1.0.0...v1.0.1
-[1.0.0]: https://github.com/ayyatma/purpIe-Ban_Manger/tree/v1.0.0
+[Unreleased]: https://github.com/ayyatma/purpIe-Ban_Manager/compare/v1.0.3...HEAD
+[1.0.3]: https://github.com/ayyatma/purpIe-Ban_Manager/compare/v1.0.1...v1.0.3
+[1.0.1]: https://github.com/ayyatma/purpIe-Ban_Manager/compare/v1.0.0...v1.0.1
+[1.0.0]: https://github.com/ayyatma/purpIe-Ban_Manager/tree/v1.0.0
